@@ -18,6 +18,6 @@ This project analyzes sales data to identify trends, top-performing products, an
 - **Slicers** (Interactivity)
 
 ## How to Use
-1. Download the `Sales_Dashboard.xlsx` file.
+1. Download the `Sales_Performance_Report_2016-17.xlsx` file.
 2. Open in Microsoft Excel.
 3. Use the **Slicers** on the left to filter data by Year or Product.
