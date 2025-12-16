@@ -4,7 +4,7 @@
 This project analyzes sales data to identify trends, top-performing products, and key revenue drivers. The goal was to transform raw data into an interactive dashboard for decision-making.
 
 ## Dashboard Preview
-![Dashboard View](Excel Sales Dashboard.png)
+![Dashboard View](Excel-Sales-Dashboard.png)
 
 ## Key Insights
 - **Total Revenue:** Tracked over ₹12M+ in sales.
